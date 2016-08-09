@@ -1,0 +1,33 @@
+body{
+	background-color: #f1f1f1;
+	padding: 0px;
+}
+//*31BDAF*/
+
+.heading{
+	
+}
+.heading img{
+	padding-top: 10px;
+}
+
+footer p{
+	padding-bottom: 10px;
+}
+
+hr{
+	background-color: #333;
+	border-color: #000;
+}
+
+#obBlock{
+	display: none;
+}
+
+#strategyBlock{
+	display: none;
+}
+
+#rmsBlock{
+	display: none;
+}
