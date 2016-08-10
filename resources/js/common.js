@@ -29,4 +29,7 @@ $(function(){
 		$("#riskBtn").addClass("active");
 	});
 
+
+	$('#myTable').dataTable();
+
 });
